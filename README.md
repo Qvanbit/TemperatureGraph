@@ -10,8 +10,14 @@
 
 Инструкции по использованию:
 Клонируйте репозиторий на свой компьютер.
-Установите необходимые зависимости, выполнив pip install -r requirements.txt.
-Запустите скрипт main.py, указав обязательный параметр "output_file" - Имя файла для сохранения графика(формат .png), с необязательными параметрами можно ознакомится с помощью команды "python main.py -h".
+Установите необходимые зависимости, выполнив
+```
+pip install -r requirements.txt.
+```
+Запустите скрипт main.py, указав обязательный параметр "output_file" - Имя файла для сохранения графика(формат .png), с необязательными параметрами можно ознакомится с помощью команды
+```
+python main.py -h
+```
 График будет сохранен в файле PNG в текущей директории.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -28,6 +34,12 @@ Saving the resulting image in PNG format.
 
 Instructions for use:
 Clone the repository to your computer.
-Install the required ones depending on it by running pip install -r require.txt.
-Run the main.py script, specifying the required parameter "output_file" - the name of the file to save the graphics (.png format), you can familiarize yourself with the optional parameters using the command "python main.py -h".
+Install the required ones depending on it by running
+```
+pip install -r require.txt
+```
+Run the main.py script, specifying the required parameter "output_file" - the name of the file to save the graphics (.png format), you can familiarize yourself with the optional parameters using the command 
+```
+python main.py -h
+```
 The graph will be saved as a PNG file in the current directory.
